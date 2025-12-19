@@ -124,7 +124,7 @@ Filters for gender, category, shipping type, and subscription
 
 Clone the repository
 
-git clone https://github.com/your-username/customer-behavior-analysis.git
+git clone https://github.com/bbnaik2003/Customer_Behavior_Analysis.git
 
 
 Run Python notebooks/scripts for data cleaning & EDA

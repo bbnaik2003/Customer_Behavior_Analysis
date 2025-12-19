@@ -148,4 +148,5 @@ Certain age groups contribute more to total revenue
 Repeat buyers are more likely to subscribe
 
 Express shipping correlates with higher purchase value
+<img width="1075" height="611" alt="Screenshot 2025-12-19 043010" src="https://github.com/user-attachments/assets/fd8b08c2-d970-41ae-b031-7d9f8faffd58" />
 
